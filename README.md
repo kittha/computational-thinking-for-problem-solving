@@ -1,1 +1,1 @@
-# computational-thinking-for-problem-solving
+# course-computational-thinking-for-problem-solving
